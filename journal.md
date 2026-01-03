@@ -10,4 +10,4 @@ https://github.com/user-attachments/assets/77ace2db-81ad-4140-a4e8-7a6bf5f428d8
 
 So I first used the [Jumpstart tutorial](https://jams.hackclub.com/jam/godot-platformer) but it got confusing really fast, I spent an hour of *tracked* time on it and had 2 github commits. I scrapped that one and then started following [this](https://www.youtube.com/watch?v=oED12Mo2018) amazing youtube tutorial. I used assets from [Pixel Adventure](https://pixelfrog-assets.itch.io/pixel-adventure-1), which was another platformer game. I am thinking of making my own art later this week.
 
-Total time today: 1h 7m(scrapped platformer) + 45m(this new one) =  1h 52m
+Total time today: 1h 7m(scrapped platformer) + 55m(this new one) =  2h 2m
